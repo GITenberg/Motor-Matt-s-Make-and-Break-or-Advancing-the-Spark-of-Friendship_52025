@@ -1,11 +1,16 @@
 _repo: Motor-Matt-s-Make-and-Break-or-Advancing-the-Spark-of-Friendship_52025
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52025-h/images/coverlarge.jpg
 creator:
   author:
     agent_name: Matthews, Stanley R.
     gutenberg_agent_id: '43601'
     url: http://www.gutenberg.org/2009/agents/43601
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52025#Motor-Matt-s-Make-and-Break-or-Advancing-the-Spark-of-Friendship
 gutenberg_issued: '2016-05-09'
 gutenberg_type: Text
 identifiers:
